@@ -1,4 +1,8 @@
 ## Welcome to GitHub Pages
+## Lohit Jagarlamudi's First CS193 Homework
+- CS 193 favs
+- Peer to Peer Connection
+- Laid back vibe
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
